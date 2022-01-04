@@ -1,0 +1,61 @@
+<?xml version="1.0"?>
+    <svg width="500" height="500" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+    <polygon id="svg_1" shape="regularPoly" sides="6" orient="x" points="163.39745962155615,150.0 120.0961894323342,125.0 120.0961894323342,75.0 163.39745962155615,50.0 206.69872981077805,74.99999999999997 206.6987298107781,124.99999999999997 " fill="#a7c957" 
+     stroke="black" stroke-width="3" transform="rotate(60, 163.39745962155615, 100.0)"/>
+<circle cx="163.39745962155615" cy="100.0" r="20" fill="#FFEDD0"/>
+    <text font-family="Open Sans" x="163.39745962155615" y="100.0" text-anchor="middle" dominant-baseline="central" fill="#E20303" font-size="28">6</text><polygon id="svg_2" shape="regularPoly" sides="6" orient="x" points="250.0,150.0 206.69872981077808,125.0 206.69872981077805,75.0 250.0,50.0 293.3012701892219,74.99999999999997 293.30127018922195,124.99999999999997 " fill="#DFB853" 
+     stroke="black" stroke-width="3" transform="rotate(60, 250.0, 100.0)"/>
+<circle cx="250.0" cy="100.0" r="20" fill="#FFEDD0"/>
+    <text font-family="Open Sans" x="250.0" y="100.0" text-anchor="middle" dominant-baseline="central" fill="#000000" font-size="22">10</text><polygon id="svg_3" shape="regularPoly" sides="6" orient="x" points="336.60254037844385,150.0 293.30127018922195,125.0 293.3012701892219,75.0 336.60254037844385,50.0 379.9038105676658,74.99999999999997 379.9038105676658,124.99999999999997 " fill="#DFB853" 
+     stroke="black" stroke-width="3" transform="rotate(60, 336.60254037844385, 100.0)"/>
+<circle cx="336.60254037844385" cy="100.0" r="20" fill="#FFEDD0"/>
+    <text font-family="Open Sans" x="336.60254037844385" y="100.0" text-anchor="middle" dominant-baseline="central" fill="#000000" font-size="19">3</text><polygon id="svg_4" shape="regularPoly" sides="6" orient="x" points="120.0961894323342,225.0 76.79491924311228,200.0 76.79491924311225,150.0 120.0961894323342,125.0 163.39745962155612,149.99999999999997 163.39745962155615,199.99999999999997 " fill="#20703D" 
+     stroke="black" stroke-width="3" transform="rotate(60, 120.0961894323342, 175.0)"/>
+<circle cx="120.0961894323342" cy="175.0" r="20" fill="#FFEDD0"/>
+    <text font-family="Open Sans" x="120.0961894323342" y="175.0" text-anchor="middle" dominant-baseline="central" fill="#000000" font-size="19">3</text><polygon id="svg_5" shape="regularPoly" sides="6" orient="x" points="206.69872981077808,225.0 163.39745962155615,200.0 163.39745962155612,150.0 206.69872981077805,125.0 250.0,149.99999999999997 250.00000000000003,199.99999999999997 " fill="#20703D" 
+     stroke="black" stroke-width="3" transform="rotate(60, 206.69872981077808, 175.0)"/>
+<circle cx="206.69872981077808" cy="175.0" r="20" fill="#FFEDD0"/>
+    <text font-family="Open Sans" x="206.69872981077808" y="175.0" text-anchor="middle" dominant-baseline="central" fill="#000000" font-size="22">4</text><polygon id="svg_6" shape="regularPoly" sides="6" orient="x" points="293.30127018922195,225.0 250.0,200.0 250.0,150.0 293.3012701892219,125.0 336.60254037844385,149.99999999999997 336.6025403784439,199.99999999999997 " fill="#C37C3A" 
+     stroke="black" stroke-width="3" transform="rotate(60, 293.30127018922195, 175.0)"/>
+<circle cx="293.30127018922195" cy="175.0" r="20" fill="#FFEDD0"/>
+    <text font-family="Open Sans" x="293.30127018922195" y="175.0" text-anchor="middle" dominant-baseline="central" fill="#000000" font-size="16">2</text><polygon id="svg_7" shape="regularPoly" sides="6" orient="x" points="379.9038105676658,225.0 336.6025403784439,200.0 336.60254037844385,150.0 379.9038105676658,125.0 423.2050807568877,149.99999999999997 423.20508075688775,199.99999999999997 " fill="#737373" 
+     stroke="black" stroke-width="3" transform="rotate(60, 379.9038105676658, 175.0)"/>
+<circle cx="379.9038105676658" cy="175.0" r="20" fill="#FFEDD0"/>
+    <text font-family="Open Sans" x="379.9038105676658" y="175.0" text-anchor="middle" dominant-baseline="central" fill="#E20303" font-size="28">8</text><polygon id="svg_8" shape="regularPoly" sides="6" orient="x" points="76.79491924311228,300.0 33.49364905389035,275.0 33.49364905389035,225.0 76.79491924311228,200.0 120.0961894323342,224.99999999999997 120.09618943233423,274.99999999999994 " fill="#a7c957" 
+     stroke="black" stroke-width="3" transform="rotate(60, 76.79491924311228, 250.0)"/>
+<circle cx="76.79491924311228" cy="250.0" r="20" fill="#FFEDD0"/>
+    <text font-family="Open Sans" x="76.79491924311228" y="250.0" text-anchor="middle" dominant-baseline="central" fill="#000000" font-size="25">9</text><polygon id="svg_9" shape="regularPoly" sides="6" orient="x" points="163.39745962155615,300.0 120.0961894323342,275.0 120.0961894323342,225.0 163.39745962155615,200.0 206.69872981077805,224.99999999999997 206.6987298107781,274.99999999999994 " fill="#DFB853" 
+     stroke="black" stroke-width="3" transform="rotate(60, 163.39745962155615, 250.0)"/>
+<circle cx="163.39745962155615" cy="250.0" r="20" fill="#FFEDD0"/>
+    <text font-family="Open Sans" x="163.39745962155615" y="250.0" text-anchor="middle" dominant-baseline="central" fill="#000000" font-size="19">11</text><polygon id="svg_10" shape="regularPoly" sides="6" orient="x" points="250.0,300.0 206.69872981077808,275.0 206.69872981077805,225.0 250.0,200.0 293.3012701892219,224.99999999999997 293.30127018922195,274.99999999999994 " fill="#C37C3A" 
+     stroke="black" stroke-width="3" transform="rotate(60, 250.0, 250.0)"/>
+<circle cx="250.0" cy="250.0" r="20" fill="#FFEDD0"/>
+    <text font-family="Open Sans" x="250.0" y="250.0" text-anchor="middle" dominant-baseline="central" fill="#000000" font-size="16">12</text><polygon id="svg_11" shape="regularPoly" sides="6" orient="x" points="336.60254037844385,300.0 293.30127018922195,275.0 293.3012701892219,225.0 336.60254037844385,200.0 379.9038105676658,224.99999999999997 379.9038105676658,274.99999999999994 " fill="#a7c957" 
+     stroke="black" stroke-width="3" transform="rotate(60, 336.60254037844385, 250.0)"/>
+<circle cx="336.60254037844385" cy="250.0" r="20" fill="#FFEDD0"/>
+    <text font-family="Open Sans" x="336.60254037844385" y="250.0" text-anchor="middle" dominant-baseline="central" fill="#000000" font-size="25">5</text><polygon id="svg_12" shape="regularPoly" sides="6" orient="x" points="423.2050807568877,300.0 379.9038105676658,275.0 379.9038105676658,225.0 423.2050807568877,200.0 466.50635094610965,224.99999999999997 466.5063509461097,274.99999999999994 " fill="#C37C3A" 
+     stroke="black" stroke-width="3" transform="rotate(60, 423.2050807568877, 250.0)"/>
+<circle cx="423.2050807568877" cy="250.0" r="20" fill="#FFEDD0"/>
+    <text font-family="Open Sans" x="423.2050807568877" y="250.0" text-anchor="middle" dominant-baseline="central" fill="#000000" font-size="25">5</text><polygon id="svg_13" shape="regularPoly" sides="6" orient="x" points="120.0961894323342,375.0 76.79491924311228,350.0 76.79491924311225,300.0 120.0961894323342,275.0 163.39745962155612,300.0 163.39745962155615,350.0 " fill="#a7c957" 
+     stroke="black" stroke-width="3" transform="rotate(60, 120.0961894323342, 325.0)"/>
+<circle cx="120.0961894323342" cy="325.0" r="20" fill="#FFEDD0"/>
+    <text font-family="Open Sans" x="120.0961894323342" y="325.0" text-anchor="middle" dominant-baseline="central" fill="#000000" font-size="22">4</text><polygon id="svg_14" shape="regularPoly" sides="6" orient="x" points="206.69872981077808,375.0 163.39745962155615,350.0 163.39745962155612,300.0 206.69872981077805,275.0 250.0,300.0 250.00000000000003,350.0 " fill="#DCBB96" 
+     stroke="black" stroke-width="3" transform="rotate(60, 206.69872981077808, 325.0)"/>
+<polygon id="svg_15" shape="regularPoly" sides="6" orient="x" points="293.30127018922195,375.0 250.0,350.0 250.0,300.0 293.3012701892219,275.0 336.60254037844385,300.0 336.6025403784439,350.0 " fill="#737373" 
+     stroke="black" stroke-width="3" transform="rotate(60, 293.30127018922195, 325.0)"/>
+<circle cx="293.30127018922195" cy="325.0" r="20" fill="#FFEDD0"/>
+    <text font-family="Open Sans" x="293.30127018922195" y="325.0" text-anchor="middle" dominant-baseline="central" fill="#E20303" font-size="28">8</text><polygon id="svg_16" shape="regularPoly" sides="6" orient="x" points="379.9038105676658,375.0 336.6025403784439,350.0 336.60254037844385,300.0 379.9038105676658,275.0 423.2050807568877,300.0 423.20508075688775,350.0 " fill="#20703D" 
+     stroke="black" stroke-width="3" transform="rotate(60, 379.9038105676658, 325.0)"/>
+<circle cx="379.9038105676658" cy="325.0" r="20" fill="#FFEDD0"/>
+    <text font-family="Open Sans" x="379.9038105676658" y="325.0" text-anchor="middle" dominant-baseline="central" fill="#000000" font-size="25">9</text><polygon id="svg_17" shape="regularPoly" sides="6" orient="x" points="163.39745962155615,450.0 120.0961894323342,425.0 120.0961894323342,375.0 163.39745962155615,350.0 206.69872981077805,375.0 206.6987298107781,425.0 " fill="#737373" 
+     stroke="black" stroke-width="3" transform="rotate(60, 163.39745962155615, 400.0)"/>
+<circle cx="163.39745962155615" cy="400.0" r="20" fill="#FFEDD0"/>
+    <text font-family="Open Sans" x="163.39745962155615" y="400.0" text-anchor="middle" dominant-baseline="central" fill="#E20303" font-size="28">6</text><polygon id="svg_18" shape="regularPoly" sides="6" orient="x" points="250.0,450.0 206.69872981077808,425.0 206.69872981077805,375.0 250.0,350.0 293.3012701892219,375.0 293.30127018922195,425.0 " fill="#20703D" 
+     stroke="black" stroke-width="3" transform="rotate(60, 250.0, 400.0)"/>
+<circle cx="250.0" cy="400.0" r="20" fill="#FFEDD0"/>
+    <text font-family="Open Sans" x="250.0" y="400.0" text-anchor="middle" dominant-baseline="central" fill="#000000" font-size="22">10</text><polygon id="svg_19" shape="regularPoly" sides="6" orient="x" points="336.60254037844385,450.0 293.30127018922195,425.0 293.3012701892219,375.0 336.60254037844385,350.0 379.9038105676658,375.0 379.9038105676658,425.0 " fill="#DFB853" 
+     stroke="black" stroke-width="3" transform="rotate(60, 336.60254037844385, 400.0)"/>
+<circle cx="336.60254037844385" cy="400.0" r="20" fill="#FFEDD0"/>
+    <text font-family="Open Sans" x="336.60254037844385" y="400.0" text-anchor="middle" dominant-baseline="central" fill="#000000" font-size="19">11</text>
+    </svg>
+    
