@@ -6,5 +6,10 @@
 	- Quantify the number of possible, legal boards.
 	- Create a program to generate nice SVG visual representations of the board (see below).
 	- Create a set of metrics that, according to some standard, provide an index for how 'fair' or 'balanced' a particular board is.
+- Explore the (very early stage) work by clicking on the binder link below.
+
+```
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jackhiggins458/Catan_Analysis/HEAD?labpath=https%3A%2F%2Fgithub.com%2Fjackhiggins458%2FCatan_Analysis%2Fblob%2Fmain%2Fcatan.ipynb)
+```
 
 ![](./img/example_board.svg)
